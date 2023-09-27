@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bekteresedov/nodejs-api#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.18"
   }
 }
